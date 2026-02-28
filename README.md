@@ -41,7 +41,7 @@
 
 | 平台 | 链接地址 |
 |:-----|:---------|
-| **HappyCapy官网** | https://happycapy.ai |
+| **HappyCapy官网** | [https://happycapy.ai](https://happycapy.ai/signup?invite_ref=aGHAUcHN) |
 | **飞书开放平台** | https://open.feishu.cn |
 | **Claude API控制台** | https://console.anthropic.com |
 | **Google AI Studio** | https://makersuite.google.com/app/apikey |
@@ -61,7 +61,7 @@
 - **飞书账号** - 有权限创建企业应用（管理员或开发者）
 
 - **HappyCapy账号** - 如果还没有，请访问官网注册
-  - 官网地址：https://happycapy.ai
+  - 官网地址：[https://happycapy.ai](https://happycapy.ai/signup?invite_ref=aGHAUcHN)
 
 - **15分钟时间** - 跟着教程一步步来
 
@@ -112,7 +112,7 @@
 
 ### 2.1 打开HappyCapy对话界面
 
-1. 登录 HappyCapy（官网：https://happycapy.ai ）
+1. 登录 HappyCapy（官网：[https://happycapy.ai](https://happycapy.ai/signup?invite_ref=aGHAUcHN) ）
 
 2. 点击「新对话」或选择现有对话
 
@@ -2097,7 +2097,7 @@ Capy会逐项检查并给出诊断结果。
 | Gemini API文档 | https://ai.google.dev/docs |
 | Deepseek API文档 | https://platform.deepseek.com |
 | 通义千问API文档 | https://help.aliyun.com/zh/dashscope/ |
-| HappyCapy使用指南 | https://happycapy.ai/docs |
+| HappyCapy使用指南 | [https://happycapy.ai/docs](https://happycapy.ai/signup?invite_ref=aGHAUcHN) |
 
 ---
 
